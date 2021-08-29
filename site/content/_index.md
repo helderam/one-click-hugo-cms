@@ -1,7 +1,7 @@
 ---
 title: Vem pra Poços vc também !
 subtitle: Apartamentos completos confortáveis para toda a família!
-image: /img/home-jumbotron.jpg
+image: img/pocos.jpg
 blurb:
   heading: Venha passear em Poços de Caldas !
   text: >
