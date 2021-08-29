@@ -4,8 +4,11 @@ subtitle: Apartamentos completos confortáveis para toda a família!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Venha passear em Poços de Caldas !
-  text: Cidade acolhedora e com tradição em turismo para todos, Poços de caldas
-    tem várias atrações para vc e sua família aproveitarem.
+  text: >
+    Uma das mais charmosas cidades do Brasil, Poços de Caldas une modernidade e
+    tradição com o charme e a tranquilidade do interior do sul de Minas Gerais.
+    Cidade acolhedora e com tradição em turismo para todos, Poços de caldas tem
+    várias atrações para você e sua família aproveitarem.
 intro:
   heading: Apartamentos lucação por temporada
   text: Este apartamento 1
