@@ -20,6 +20,6 @@ products:
     text: "Apartamento a menos de 2km do centro, com "
 values:
   heading: Nosso valores
-  text: Bom atendimento é nosso lema principal.Buscamos a melhor experiência de
+  text: Bom atendimento é nosso lema principal. Buscamos a melhor experiência de
     hospedagem para nossos clientes
 ---

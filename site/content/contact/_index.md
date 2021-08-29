@@ -1,19 +1,28 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Reservas
+logo: img/pocos.jpg
+contact_entries: []
 ---
+Para reservas, contamos com as plataformas AirBNB e Booking que cuidam da agenda de reservas e também do pagamento. Voce pode escolher !
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+<h3 class="f4 b lh-title mb2">Como reservar?</h3>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+Voce pode acessar os links abaixo que vão redirecionar para as plataformas.
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+# Apartamentos AirBNB
+
+<hr />
+
+<a href="airbnb.com.br/rooms/37080861">  Solarium</a>
+
+<a href="airbnb.com.br/rooms/45815479">  Bela Vista</a>
+
+# Apartamentos Booking
+
+<hr />
+
+<a href="<https://www.booking.com/hotel/br/apartamento-novo-em-pocos-de-caldas.pt-br.html>">  Solarium </a>\
+\
+<a href="<https://www.booking.com/hotel/br/apartamento-bela-vista-em-pocos-de-caldas.pt-br.html>"> Bela Vista
+
+<hr />
