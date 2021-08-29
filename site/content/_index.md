@@ -10,17 +10,16 @@ blurb:
     Cidade acolhedora e com tradição em turismo para todos, Poços de caldas tem
     várias atrações para você e sua família aproveitarem.
 intro:
-  heading: Apartamentos lucação por temporada
-  text: Este apartamento 1
+  heading: Apartamentos
+  text: Aqui você vai encontrar tranquilidade com conforto e segurança em
+    apartamentos completos e mobiliados e higienizados.
 products:
-  - image: img/illustrations-coffee.svg
-    text: Aqui apartamento 1
-  - image: /img/illustrations-coffee-gear.svg
-    text: aqui apartamento 2
+  - image: img/externa-solarium.png
+    text: "Apartamento com elevador, todo mobiliado com cozinha equipada, "
+  - image: img/22-f.jpeg
+    text: "Apartamento a menos de 2km do centro, com "
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Nosso valores
+  text: Bom atendimento é nosso lema principal.Buscamos a melhor experiência de
+    hospedagem para nossos clientes
 ---
